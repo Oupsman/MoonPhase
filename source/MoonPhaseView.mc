@@ -12,11 +12,6 @@ var width, height, device_settings;
 var prim_color = Gfx.COLOR_RED;  // primary color
 var sec_color = Gfx.COLOR_DK_RED; // secondary color
 var pic_Moon;
-var fenix_purble = 0x5500AA ; // fenix PURBLE is not Gfx.COLOR_PURBLE Arrg! Thx Garmin!
-
-// var DAYS_IN_MONTH = [ 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 ];
-
-// var DAYS_BEFORE_MONTH = [ 0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334 ] ;
 
 var SYNODIC = 29.53058867; //constante pour la période synodique
 var MSPARJOUR = 24 * 60 * 60 * 1000; //constante pour le nombre de millisecondes par jour
