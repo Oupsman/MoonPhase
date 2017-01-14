@@ -1,232 +1,224 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="22" pc="268435456" symbol="onLayout"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="23" pc="268435460" symbol="onLayout"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="24" pc="268435479" symbol="onLayout"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="25" pc="268435498" symbol="onLayout"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="26" pc="268435521" symbol="onLayout"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="27" pc="268435530" symbol="onLayout"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="33" pc="268435574" symbol="onShow"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="37" pc="268435579" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="40" pc="268435583" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="41" pc="268435619" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="42" pc="268435657" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="45" pc="268435669" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="46" pc="268435686" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="47" pc="268435736" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="48" pc="268435786" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="49" pc="268435786" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="50" pc="268435786" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="51" pc="268435793" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="52" pc="268435803" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="53" pc="268435813" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="54" pc="268435823" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="55" pc="268435833" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="57" pc="268435843" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="59" pc="268435856" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="62" pc="268435886" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="63" pc="268435906" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="67" pc="268435940" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="70" pc="268435980" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="71" pc="268436016" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="75" pc="268436040" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="78" pc="268436059" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="79" pc="268436070" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="80" pc="268436090" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="86" pc="268436113" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="90" pc="268436188" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="93" pc="268436263" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="94" pc="268436299" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="97" pc="268436353" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="98" pc="268436389" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="100" pc="268436479" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="101" pc="268436499" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="104" pc="268436513" symbol="onUpdate"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="116" pc="268436528" symbol="onHide"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="117" pc="268436532" symbol="onHide"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="118" pc="268436542" symbol="onHide"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="122" pc="268436559" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="123" pc="268436563" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="124" pc="268436573" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="128" pc="268436590" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="129" pc="268436594" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="130" pc="268436604" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="137" pc="268436621" symbol="drawPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="138" pc="268436625" symbol="drawPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="139" pc="268436625" symbol="drawPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="141" pc="268436643" symbol="drawPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="142" pc="268436657" symbol="drawPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="143" pc="268436681" symbol="drawPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="144" pc="268436699" symbol="drawPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="146" pc="268436735" symbol="drawPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="147" pc="268436758" symbol="drawPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="149" pc="268436829" symbol="drawPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="161" pc="268436905" symbol="drawRotatedPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="162" pc="268436909" symbol="drawRotatedPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="163" pc="268436923" symbol="drawRotatedPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="164" pc="268436942" symbol="drawRotatedPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="165" pc="268436961" symbol="drawRotatedPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="166" pc="268436993" symbol="drawRotatedPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="170" pc="268437025" symbol="drawRotatedPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="171" pc="268437049" symbol="drawRotatedPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="172" pc="268437080" symbol="drawRotatedPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="173" pc="268437111" symbol="drawRotatedPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="176" pc="268437161" symbol="drawRotatedPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="177" pc="268437172" symbol="drawRotatedPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="179" pc="268437189" symbol="drawRotatedPolygon"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="188" pc="268437208" symbol="drawHand"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="189" pc="268437212" symbol="drawHand"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="190" pc="268437212" symbol="drawHand"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="191" pc="268437236" symbol="drawHand"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="192" pc="268437270" symbol="drawHand"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="197" pc="268437322" symbol="drawArbor"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="199" pc="268437326" symbol="drawArbor"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="200" pc="268437362" symbol="drawArbor"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="202" pc="268437407" symbol="drawArbor"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="203" pc="268437443" symbol="drawArbor"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="204" pc="268437488" symbol="drawArbor"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="205" pc="268437524" symbol="drawArbor"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="211" pc="268437570" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="212" pc="268437574" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="213" pc="268437574" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="214" pc="268437581" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="215" pc="268437588" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="239" pc="268438490" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="240" pc="268438497" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="241" pc="268438504" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="265" pc="268439406" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="266" pc="268439413" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="269" pc="268439420" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="290" pc="268440102" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="291" pc="268440121" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="292" pc="268440131" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="293" pc="268440154" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="295" pc="268440172" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="296" pc="268440201" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="298" pc="268440219" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="299" pc="268440230" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="300" pc="268440259" symbol="draw_watch_finger"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="307" pc="268440281" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="308" pc="268440285" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="309" pc="268440285" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="310" pc="268440292" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="311" pc="268440306" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="312" pc="268440332" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="313" pc="268440347" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="314" pc="268440360" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="315" pc="268440373" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="316" pc="268440381" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="317" pc="268440446" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="318" pc="268440511" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="319" pc="268440576" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="321" pc="268440641" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="322" pc="268440657" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="325" pc="268440693" symbol="draw_min"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="328" pc="268440711" symbol="CalcPhase"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="330" pc="268440715" symbol="CalcPhase"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="331" pc="268440715" symbol="CalcPhase"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="332" pc="268440715" symbol="CalcPhase"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="334" pc="268440715" symbol="CalcPhase"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="336" pc="268440801" symbol="CalcPhase"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="337" pc="268440826" symbol="CalcPhase"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="338" pc="268440839" symbol="CalcPhase"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="339" pc="268440865" symbol="CalcPhase"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="340" pc="268440884" symbol="CalcPhase"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="341" pc="268440909" symbol="CalcPhase"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="342" pc="268440920" symbol="CalcPhase"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="345" pc="268440933" symbol="CalcPhase"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="346" pc="268440952" symbol="CalcPhase"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseBackground.mc" lineNum="7" pc="268440957" symbol="initialize"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseBackground.mc" lineNum="8" pc="268440961" symbol="initialize"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseBackground.mc" lineNum="12" pc="268440982" symbol="initialize"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseBackground.mc" lineNum="15" pc="268441003" symbol="draw"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseBackground.mc" lineNum="17" pc="268441007" symbol="draw"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseBackground.mc" lineNum="18" pc="268441060" symbol="draw"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="6" pc="268441073" symbol="initialize"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="7" pc="268441077" symbol="initialize"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="11" pc="268441096" symbol="onStart"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="15" pc="268441101" symbol="onStop"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="19" pc="268441106" symbol="getInitialView"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="20" pc="268441110" symbol="getInitialView"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="24" pc="268441148" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="25" pc="268441152" symbol="onSettingsChanged"/>
-<entry filename="Rez" lineNum="28" pc="268441169" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="30" pc="268441173" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="31" pc="268441197" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="32" pc="268441360" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="33" pc="268441385" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="34" pc="268441437" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="37" pc="268441483" symbol="WatchFace"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="19" pc="268435456" symbol="onLayout"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="20" pc="268435460" symbol="onLayout"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="21" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="22" pc="268435498" symbol="onLayout"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="23" pc="268435521" symbol="onLayout"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="24" pc="268435530" symbol="onLayout"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="30" pc="268435574" symbol="onShow"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="34" pc="268435579" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="37" pc="268435583" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="38" pc="268435619" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="39" pc="268435657" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="42" pc="268435669" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="43" pc="268435686" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="44" pc="268435736" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="45" pc="268435786" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="46" pc="268435786" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="47" pc="268435786" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="48" pc="268435793" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="49" pc="268435803" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="50" pc="268435813" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="51" pc="268435823" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="52" pc="268435833" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="54" pc="268435843" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="56" pc="268435856" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="59" pc="268435886" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="60" pc="268435906" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="64" pc="268435940" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="67" pc="268435980" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="68" pc="268436016" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="72" pc="268436040" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="75" pc="268436059" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="76" pc="268436070" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="77" pc="268436090" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="83" pc="268436113" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="87" pc="268436188" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="90" pc="268436263" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="91" pc="268436299" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="94" pc="268436353" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="95" pc="268436389" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="97" pc="268436479" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="98" pc="268436499" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="101" pc="268436513" symbol="onUpdate"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="113" pc="268436528" symbol="onHide"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="114" pc="268436532" symbol="onHide"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="115" pc="268436542" symbol="onHide"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="119" pc="268436559" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="120" pc="268436563" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="121" pc="268436573" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="125" pc="268436590" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="126" pc="268436594" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="127" pc="268436604" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="134" pc="268436621" symbol="drawPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="135" pc="268436625" symbol="drawPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="136" pc="268436625" symbol="drawPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="138" pc="268436643" symbol="drawPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="139" pc="268436657" symbol="drawPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="140" pc="268436681" symbol="drawPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="141" pc="268436699" symbol="drawPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="143" pc="268436735" symbol="drawPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="144" pc="268436758" symbol="drawPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="146" pc="268436829" symbol="drawPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="158" pc="268436905" symbol="drawRotatedPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="159" pc="268436909" symbol="drawRotatedPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="160" pc="268436923" symbol="drawRotatedPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="161" pc="268436942" symbol="drawRotatedPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="162" pc="268436961" symbol="drawRotatedPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="163" pc="268436993" symbol="drawRotatedPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="167" pc="268437025" symbol="drawRotatedPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="168" pc="268437049" symbol="drawRotatedPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="169" pc="268437080" symbol="drawRotatedPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="170" pc="268437111" symbol="drawRotatedPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="173" pc="268437161" symbol="drawRotatedPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="174" pc="268437172" symbol="drawRotatedPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="176" pc="268437189" symbol="drawRotatedPolygon"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="185" pc="268437208" symbol="drawHand"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="186" pc="268437212" symbol="drawHand"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="187" pc="268437212" symbol="drawHand"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="188" pc="268437236" symbol="drawHand"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="189" pc="268437270" symbol="drawHand"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="194" pc="268437322" symbol="drawArbor"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="196" pc="268437326" symbol="drawArbor"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="197" pc="268437362" symbol="drawArbor"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="199" pc="268437407" symbol="drawArbor"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="200" pc="268437443" symbol="drawArbor"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="201" pc="268437488" symbol="drawArbor"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="202" pc="268437524" symbol="drawArbor"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="208" pc="268437570" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="209" pc="268437574" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="210" pc="268437574" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="211" pc="268437581" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="212" pc="268437588" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="236" pc="268438490" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="237" pc="268438497" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="238" pc="268438504" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="262" pc="268439406" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="263" pc="268439413" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="266" pc="268439420" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="287" pc="268440102" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="288" pc="268440121" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="289" pc="268440131" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="290" pc="268440154" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="292" pc="268440172" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="293" pc="268440201" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="295" pc="268440219" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="296" pc="268440230" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="297" pc="268440259" symbol="draw_watch_finger"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="304" pc="268440281" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="305" pc="268440285" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="306" pc="268440285" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="307" pc="268440292" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="308" pc="268440306" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="309" pc="268440332" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="310" pc="268440347" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="311" pc="268440360" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="312" pc="268440373" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="313" pc="268440381" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="314" pc="268440446" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="315" pc="268440511" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="316" pc="268440576" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="318" pc="268440641" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="319" pc="268440657" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="322" pc="268440693" symbol="draw_min"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="325" pc="268440711" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="327" pc="268440715" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="328" pc="268440722" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="330" pc="268440729" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="331" pc="268440729" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="332" pc="268440729" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="334" pc="268440729" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="336" pc="268440815" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="337" pc="268440840" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="338" pc="268440853" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="339" pc="268440879" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="340" pc="268440898" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="341" pc="268440917" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="342" pc="268440928" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="345" pc="268440941" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseView.mc" lineNum="346" pc="268440954" symbol="CalcPhase"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="6" pc="268440959" symbol="initialize"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="7" pc="268440963" symbol="initialize"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="11" pc="268440982" symbol="onStart"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="15" pc="268440987" symbol="onStop"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="19" pc="268440992" symbol="getInitialView"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="20" pc="268440996" symbol="getInitialView"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="24" pc="268441034" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\benoi\\workspace\\MoonPhase\\source\\MoonPhaseApp.mc" lineNum="25" pc="268441038" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="28" pc="268441055" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="30" pc="268441059" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268441083" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268441246" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="33" pc="268441271" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268441323" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268441369" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
-<entry field="true" id="23" symbol="ColorBlue"/>
+<entry field="true" id="20" symbol="ColorBlue"/>
 <entry field="true" id="11" symbol="sec_color"/>
 <entry field="true" id="8388611" symbol="Toybox"/>
 <entry id="8388645" symbol="Time"/>
-<entry field="true" id="20" symbol="Moon"/>
+<entry field="true" id="17" symbol="Moon"/>
 <entry id="8388720" symbol="hour"/>
 <entry id="8388770" module="true" symbol="Strings"/>
 <entry field="true" id="12" symbol="pic_Moon"/>
-<entry field="true" id="30" symbol="ColorWhite"/>
+<entry field="true" id="27" symbol="ColorWhite"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
-<entry id="8389068" method="true" symbol="draw"/>
-<entry field="true" id="13" symbol="SYNODIC"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388640" symbol="Lang"/>
-<entry field="true" id="14" symbol="MSPARJOUR"/>
-<entry field="true" id="29" symbol="ColorBlack"/>
+<entry field="true" id="26" symbol="ColorBlack"/>
 <entry id="8388769" module="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="8388924" symbol="Gregorian"/>
-<entry field="true" id="24" symbol="ColorRed"/>
-<entry field="true" id="25" symbol="ForegroundColorTitle"/>
+<entry field="true" id="21" symbol="ColorRed"/>
+<entry field="true" id="22" symbol="ForegroundColorTitle"/>
 <entry field="true" id="10" symbol="prim_color"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="31" symbol="AppName"/>
+<entry field="true" id="28" symbol="AppName"/>
 <entry id="8389375" method="true" symbol="WatchFace"/>
-<entry id="34" method="true" symbol="drawHand"/>
-<entry id="16" object="true" symbol="Background"/>
+<entry id="31" method="true" symbol="drawHand"/>
 <entry id="8388641" symbol="Math"/>
-<entry field="true" id="21" symbol="LauncherIcon"/>
-<entry id="15" object="true" symbol="MoonPhaseView"/>
-<entry id="32" method="true" symbol="drawPolygon"/>
+<entry field="true" id="18" symbol="LauncherIcon"/>
+<entry id="13" object="true" symbol="MoonPhaseView"/>
+<entry id="29" method="true" symbol="drawPolygon"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8389065" symbol="locY"/>
 <entry id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" symbol="Drawables"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry id="37" method="true" symbol="draw_min"/>
+<entry id="34" method="true" symbol="draw_min"/>
 <entry id="8388940" symbol="year"/>
-<entry field="true" id="27" symbol="ColorDarkGray"/>
+<entry field="true" id="24" symbol="ColorDarkGray"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="36" method="true" symbol="draw_watch_finger"/>
-<entry id="38" method="true" symbol="CalcPhase"/>
+<entry id="33" method="true" symbol="draw_watch_finger"/>
+<entry id="35" method="true" symbol="CalcPhase"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry id="8389348" symbol="font"/>
-<entry field="true" id="22" symbol="ColorLightGray"/>
+<entry field="true" id="19" symbol="ColorLightGray"/>
 <entry id="8389347" symbol="color"/>
-<entry field="true" id="26" symbol="BackgroundColorTitle"/>
+<entry field="true" id="23" symbol="BackgroundColorTitle"/>
 <entry id="8388939" symbol="day"/>
 <entry field="true" id="8389067" symbol="height"/>
 <entry id="8389338" symbol="minute"/>
 <entry id="8389339" symbol="second"/>
 <entry id="8388938" symbol="month"/>
-<entry id="19" module="true" symbol="Layouts"/>
+<entry id="16" module="true" symbol="Layouts"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry field="true" id="28" symbol="MilitaryFormatTitle"/>
-<entry id="33" method="true" symbol="drawRotatedPolygon"/>
+<entry field="true" id="25" symbol="MilitaryFormatTitle"/>
+<entry id="30" method="true" symbol="drawRotatedPolygon"/>
 <entry field="true" id="8389066" symbol="width"/>
 <entry id="8389063" symbol="identifier"/>
-<entry id="18" module="true" symbol="Menus"/>
+<entry id="15" module="true" symbol="Menus"/>
 <entry field="true" id="8" symbol="fast_updates"/>
 <entry field="true" id="9" symbol="device_settings"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
-<entry id="17" object="true" symbol="MoonPhaseApp"/>
-<entry id="35" method="true" symbol="drawArbor"/>
+<entry id="14" object="true" symbol="MoonPhaseApp"/>
+<entry id="32" method="true" symbol="drawArbor"/>
 </symbolTable>
 <localVars>
 <entry endPc="268436527" name="dateStrings" stackId="3" startPc="268435583"/>
@@ -269,17 +261,18 @@
 <entry endPc="268440710" name="xx" stackId="8" startPc="268440285"/>
 <entry endPc="268440710" name="y" stackId="11" startPc="268440285"/>
 <entry endPc="268440710" name="yy" stackId="10" startPc="268440285"/>
-<entry endPc="268440955" name="phase" stackId="5" startPc="268440715"/>
-<entry endPc="268440955" name="Aujourdui" stackId="2" startPc="268440715"/>
-<entry endPc="268440955" name="msDiff" stackId="3" startPc="268440715"/>
-<entry endPc="268440955" name="fullMoon" stackId="7" startPc="268440715"/>
-<entry endPc="268440955" name="jour" stackId="6" startPc="268440715"/>
-<entry endPc="268440955" name="mfullMoon" stackId="4" startPc="268440715"/>
-<entry endPc="268440955" name="DateRef" stackId="1" startPc="268440715"/>
-<entry endPc="268441002" name="dictionary" stackId="1" startPc="268440961"/>
-<entry endPc="268441510" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268441173"/>
-<entry endPc="268441510" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268441173"/>
-<entry endPc="268441510" name="rez_cmp_local_custom_drawable_WR7CQE17F0NNQMKRPKQX" stackId="2" startPc="268441173"/>
+<entry endPc="268440957" name="Aujourdui" stackId="4" startPc="268440715"/>
+<entry endPc="268440957" name="MSPARJOUR" stackId="2" startPc="268440715"/>
+<entry endPc="268440957" name="SYNODIC" stackId="1" startPc="268440715"/>
+<entry endPc="268440957" name="DateRef" stackId="3" startPc="268440715"/>
+<entry endPc="268440957" name="fullMoon" stackId="9" startPc="268440715"/>
+<entry endPc="268440957" name="mfullMoon" stackId="6" startPc="268440715"/>
+<entry endPc="268440957" name="msDiff" stackId="5" startPc="268440715"/>
+<entry endPc="268440957" name="jour" stackId="8" startPc="268440715"/>
+<entry endPc="268440957" name="phase" stackId="7" startPc="268440715"/>
+<entry endPc="268441396" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268441059"/>
+<entry endPc="268441396" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268441059"/>
+<entry endPc="268441396" name="rez_cmp_local_custom_drawable_SKVMAB6R5U3DVHQ76S8W" stackId="2" startPc="268441059"/>
 </localVars>
 <annotations/>
 <functions>
@@ -344,13 +337,6 @@
 <documentation/>
 </functionEntry>
 <functionEntry name="CalcPhase" parent="MoonPhaseView">
-<documentation/>
-</functionEntry>
-<functionEntry name="initialize" parent="Background">
-<documentation/>
-</functionEntry>
-<functionEntry name="draw" parent="Background">
-<param id="dc"/>
 <documentation/>
 </functionEntry>
 <functionEntry name="initialize" parent="MoonPhaseApp">

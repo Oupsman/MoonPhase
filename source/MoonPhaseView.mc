@@ -13,9 +13,6 @@ var prim_color = Gfx.COLOR_RED;  // primary color
 var sec_color = Gfx.COLOR_DK_RED; // secondary color
 var pic_Moon;
 
-var SYNODIC = 29.53058867; //constante pour la période synodique
-var MSPARJOUR = 24 * 60 * 60 * 1000; //constante pour le nombre de millisecondes par jour
-
 class MoonPhaseView extends Ui.WatchFace {
 
     //! Load your resources here
@@ -326,6 +323,9 @@ class MoonPhaseView extends Ui.WatchFace {
     }
   
 	function CalcPhase() {
+
+		var SYNODIC = 29.53058867; //constante pour la période synodique
+		var MSPARJOUR = 24 * 60 * 60 * 1000; //constante pour le nombre de millisecondes par jour
 
 		var DateRef, Aujourdui, msDiff;
 		var mfullMoon;
