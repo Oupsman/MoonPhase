@@ -13,16 +13,18 @@ var prim_color = Gfx.COLOR_RED;  // primary color
 var sec_color = Gfx.COLOR_DK_RED; // secondary color
 var pic_Moon;
 
+var SYNODIC = 29.53058867; //constante pour la période synodique
+
 class MoonPhaseView extends Ui.WatchFace {
 
     //! Load your resources here
     function onLayout(dc) {
-     width = dc.getWidth();
-     height = dc.getHeight();
-     device_settings = Sys.getDeviceSettings(); // general device settings like 24or12h mode
-     pic_Moon = null;
-     pic_Moon = Ui.loadResource(Rez.Drawables.Moon);
-     }
+     	width = dc.getWidth();
+     	height = dc.getHeight();
+     	device_settings = Sys.getDeviceSettings(); // general device settings like 24or12h mode
+     	pic_Moon = null;
+     	pic_Moon = Ui.loadResource(Rez.Drawables.Moon);
+    }
 
     //! Called when this View is brought to the foreground. Restore
     //! the state of this View and prepare it to be shown. This includes
@@ -52,58 +54,38 @@ class MoonPhaseView extends Ui.WatchFace {
         sec  = clockTime.sec;
           
         jour = CalcPhase();
-        // jour = 29.5;
+    
         dc.drawBitmap (0,0,pic_Moon);	
         
         // Now we are going to draw a filled circle of the same diameter of the pic, just to hide the moon
 		if (jour < SYNODIC/2) {
 			x = 109 - (jour*218)/(SYNODIC/2);	
-		
 		} else {
-			// TODO : travailler sur cette formule de calcul
 			x = 109 - (jour-SYNODIC)*(218/(SYNODIC/2));
 		}
 		
         dc.setColor( Gfx.COLOR_BLACK,  Gfx.COLOR_BLACK);
         dc.fillCircle(x, 109, 109);
         
-        
         // READ activity data (steps, movebar level)
         var activity = ActivityMonitor.getInfo();
         
-            // sleep mode --> GRAY
-            if (activity.isSleepMode){ // is watch in sleep mode? --> color it gray              
-               prim_color = Gfx.COLOR_LT_GRAY; 
-               sec_color  = Gfx.COLOR_DK_GRAY;
-            }
-        // draw general watchface layout
-
-        //Draw thin 60 Minute lines
-        //       dc,amount of fragments of 360circle, outer radian, inner radian, color, 360degree
+        // Draw the thin 60 Minute lines
         draw_min(dc,60,1,(height/2),(height/2-12), Gfx.COLOR_DK_GRAY,360); 
         
-        // draw the big white 5 Min lines
-        //       dc,amount of fragments of 360circle, outer radian, inner radian, color, 360degree
+        // draw the big 5 Min lines
         draw_min(dc,12,3,(height/2),(height/2-20), Gfx.COLOR_DK_BLUE,360);  
 
         // draw tiny date-circle
         dc.setColor( Gfx.COLOR_WHITE,  Gfx.COLOR_WHITE);
         dc.fillCircle(width/2, height-height/4, 15);
 
-        //write date--> 11 (SHORT) Aug (MEDIUM)
+        //write day of month
 		dc.setColor( Gfx.COLOR_BLACK,  Gfx.COLOR_TRANSPARENT);
         dc.drawText(width/2, height-height/4-15, Gfx.FONT_MEDIUM, day.toString(), Gfx.TEXT_JUSTIFY_CENTER);
       	
       	draw_watch_finger(dc,hour,min,sec);
       	drawArbor(dc);
-      	
-        //USER is watching the watch -> show all information
-        if (fast_updates){	        
-			// drawsec(dc,100);  
-			// Battery
-			// drawbatt(dc, width/2 - 16, height/2 + (height*2/7) - 16); // function, source below
-			
-        }
         
     }
 
@@ -133,12 +115,8 @@ class MoonPhaseView extends Ui.WatchFace {
     
     function drawPolygon (dc,coords,thickness) {
     	var i;
-    	Sys.println (coords);
-    	
     	dc.setPenWidth (thickness);
     	for (i=0; i<coords.size(); i++) {
-    		Sys.println (coords);
-    		Sys.println (i + " " + coords.size());
 	    	
     		if (i<coords.size()-1 ) {
     			dc.drawLine (coords[i][0],coords[i][1], coords[i+1][0],coords[i+1][1]);
@@ -208,7 +186,7 @@ class MoonPhaseView extends Ui.WatchFace {
     function draw_watch_finger(dc,hour, min, sec){
     	var hourHand,minuteHand, secondHand;
     	var minuteLength=85;
-    	var minuteWidth=6;
+    	var minuteWidth=4;
     	var minuteShape = [
     		[[
 				[-minuteWidth ,minuteLength-2*minuteWidth],
@@ -216,48 +194,50 @@ class MoonPhaseView extends Ui.WatchFace {
 				[0 ,minuteLength]
 			],Gfx.COLOR_DK_BLUE, 0],
 			[[
-				[-minuteWidth*1.5,0],
-				[minuteWidth*1.5,0],
+				[-minuteWidth,0],
+				[minuteWidth,0],
 				[minuteWidth,(minuteLength - 2*minuteWidth)],
 				[-minuteWidth,(minuteLength - 2*minuteWidth)]
-			],Gfx.COLOR_DK_BLUE, 2],
+			],Gfx.COLOR_DK_BLUE, 0],
 			[[
-				[-minuteWidth*1.5,0],
-				[minuteWidth*1.5,0],
-				[minuteWidth,-minuteLength/5],
-				[-minuteWidth,-minuteLength/5]
+				[-minuteWidth,0],
+				[minuteWidth,0],
+				[minuteWidth,-minuteLength/8],
+				[-minuteWidth,-minuteLength/8]
 			], Gfx.COLOR_DK_BLUE, 0],
 			[[
-				[minuteWidth,-minuteLength/5],
-				[0,-minuteLength/4],
-				[-minuteWidth,-minuteLength/5]
-			],Gfx.COLOR_DK_BLUE, 0]
-    	];
+				[-minuteWidth+2,minuteLength/5],
+				[minuteWidth-2,minuteLength/5],
+				[minuteWidth-2,(minuteLength - 2*minuteWidth)-2],
+				[-minuteWidth+2,(minuteLength - 2*minuteWidth)-2]
+			],Gfx.COLOR_DK_GREEN, 0]
+		];
     	var hourLength=55;
 		var hourWidth = 4;
 		var hourShape = [
 			[[
-				[-hourWidth ,hourLength-2*hourWidth],
-				[hourWidth ,hourLength-2*hourWidth],
+				[-hourWidth*3 ,hourLength-3*hourWidth],
+				[hourWidth*3 ,hourLength-3*hourWidth],
 				[0 ,hourLength]
 			], Gfx.COLOR_DK_BLUE,0],
 			[[
-				[-hourWidth*1.5,0],
-				[hourWidth*1.5,0],
-				[hourWidth,(hourLength - 2*hourWidth)],
-				[-hourWidth,(hourLength - 2*hourWidth)]
-			], Gfx.COLOR_DK_BLUE,2],
+				[-hourWidth,0],
+				[hourWidth,0],
+				[hourWidth,(hourLength - 3*hourWidth)],
+				[-hourWidth,(hourLength - 3*hourWidth)]
+			], Gfx.COLOR_DK_BLUE,0],
 			[[
-				[-hourWidth*1.5,0],
-				[hourWidth*1.5,0],
+				[-hourWidth,0],
+				[hourWidth,0],
 				[hourWidth,-hourLength/5],
 				[-hourWidth,-hourLength/5]
 			], Gfx.COLOR_DK_BLUE,0],
 			[[
-				[hourWidth,-hourLength/5],
-				[0,-hourLength/4],
-				[-hourWidth,-hourLength/5]
-			], Gfx.COLOR_DK_BLUE,0]
+				[-hourWidth+2,hourLength/5],
+				[hourWidth-2,hourLength/5],
+				[hourWidth-2,(hourLength - 2*hourWidth)-2],
+				[-hourWidth+2,(hourLength - 2*hourWidth)-2]
+			],Gfx.COLOR_DK_GREEN, 0]
 		];
     	var secondLength = 100;
 		var secondWidth = 2;
@@ -277,13 +257,14 @@ class MoonPhaseView extends Ui.WatchFace {
 			], Gfx.COLOR_DK_RED,0],
 			[[
 				[ -secondWidth,0],
-				[ -secondWidth*2,-secondLength/5],
-				[ secondWidth*2,-secondLength/5],
+				[ -secondWidth*3,-secondLength/5],
+				[ secondWidth*3,-secondLength/5],
 				[ secondWidth,0]
 			], Gfx.COLOR_DK_GRAY,0]
 		];
 
-    	//DRAW HOUR HAND	
+    	//DRAW HANDS
+    		
         hourHand = (((hour % 12) * 60) + min);
         hourHand = hourHand / (12 * 60.0);
         hourHand = hourHand * Math.PI * 2;
@@ -324,26 +305,25 @@ class MoonPhaseView extends Ui.WatchFace {
   
 	function CalcPhase() {
 
-		var SYNODIC = 29.53058867; //constante pour la période synodique
 		var MSPARJOUR = 24 * 60 * 60 * 1000; //constante pour le nombre de millisecondes par jour
 
-		var DateRef, Aujourdui, msDiff;
+		var DateRef, Today, msDiff;
 		var mfullMoon;
-		var phase,jour;
+		var phase,day;
 
 		var fullMoon = { :second => 0, :hour => 8, :minute => 53, :year => 2003, :month => 7, :day => 29	};
 	
 	  	mfullMoon = Time.Gregorian.moment(fullMoon); 
 		DateRef = mfullMoon.value();
-  		Aujourdui = Time.now().value(); //date du jour
-  		msDiff = (Aujourdui - DateRef)*1000.0 + 86400000.0; //on calcule la différence en millisecondes
+  		Today = Time.now().value(); //date du jour
+  		msDiff = (Today - DateRef)*1000.0 + 86400000.0; //on calcule la différence en millisecondes
   		phase = (msDiff * 100.0 )/(SYNODIC * 86400000.0); //on calcule le pourcentage de la phase
   		while(phase>100) {
 	   		phase -= 100;
 		}
 	
-		jour = SYNODIC*phase/100;
-	  	return jour;
+		day = SYNODIC*phase/100;
+	  	return day;
 
 	}
 
